@@ -76,9 +76,9 @@ Example repository structure:
 ├── tray6.jpg
 ├── tray7.jpg
 ├── tray8.jpg
-├── screenshots/
-│   ├── result_1.png
-│   ├── result_2.png
+├── results/
+│   ├── trays_1-3.png
+│   ├── trays_3-4.png
 │   └── ...
 └── README.md
 ```
