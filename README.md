@@ -221,8 +221,8 @@ Example summary:
 Add example results here, for example:
 
 ```md
-![Result 1](screenshots/result_1.png)
-![Result 2](screenshots/result_2.png)
+![Result 1](results/trays_1-3.png)
+![Result 2](results/trays_3-4.png)
 ```
 
 ## Author
