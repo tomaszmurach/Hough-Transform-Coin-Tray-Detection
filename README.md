@@ -217,12 +217,12 @@ Example summary:
 - support for larger and more varied datasets.
 
 ## Screenshots
+<img width="1691" height="913" alt="image" src="https://github.com/user-attachments/assets/3c7e859c-c87c-4d6c-81a8-a05eaa58b1e5" />
+<img width="1692" height="915" alt="image" src="https://github.com/user-attachments/assets/b07aa290-a1a1-42e5-b944-55630bad45b5" />
 
-Add example results here, for example:
 
-```md
-![Result 1](results/trays_1-3.png)
-![Result 2](results/trays_3-4.png)
+
+
 ```
 
 ## Author
